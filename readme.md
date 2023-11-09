@@ -1,4 +1,4 @@
-# PROPOSTA do Desafio Calculadora de partidas Rankeadas
+# PROPOSTA do Desafio Calculadora de Partidas Rankeadas
 ## 1. O que deve ser utilizado
 - Variáveis
 - Operadores
